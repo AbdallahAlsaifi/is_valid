@@ -1,7 +1,5 @@
 import 'dart:convert';
-
-import 'is_valid_platform_interface.dart';
-
+import 'package:flutter/material.dart';
 class IsValid {
  static bool validateEmail(String email) {
     /// Email validation logic
