@@ -1,8 +1,9 @@
 name: is_valid
 description: All-in-one validator
 version: 0.0.1
-homepage:
-repository: 
+homepage: https://github.com/AbdallahAlsaifi/is_valid.git
+repository: https://github.com/AbdallahAlsaifi/is_valid.git
+
 environment:
   sdk: '>=3.1.5 <4.0.0'
   flutter: '>=3.3.0'
