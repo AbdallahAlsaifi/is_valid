@@ -1,4 +1,5 @@
 import 'dart:convert';
+
 // Feel free to call IsValid.withAnyFunction
 class IsValid {
   static bool validateEmail(String email) {
@@ -99,6 +100,7 @@ class IsValid {
         RegExp(r'\.(pdf|docx|jpg|png|txt)$', caseSensitive: false);
     return fileExtRegex.hasMatch(filename);
   }
+
 // Bank account number
   static bool validateBankAccountNumber(String accountNumber) {
     // Bank account number validation logic
@@ -279,6 +281,7 @@ class IsValid {
     RegExp languageRegex = RegExp(r'^[a-z]{2}$');
     return languageRegex.hasMatch(languageCode);
   }
+
   // Barcode validation
   static bool validateBarcode(String barcode) {
     // Barcode validation logic
