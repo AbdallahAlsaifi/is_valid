@@ -1,4 +1,5 @@
 # IsValid
+
 [![Pub Version](https://img.shields.io/pub/v/badges?color=blueviolet)](https://pub.dev/packages/is_valid)
 [![popularity](https://img.shields.io/pub/popularity/badges?logo=dart)](https://pub.dev/packages/is_valid/score)
 [![likes](https://img.shields.io/pub/likes/badges?logo=dart)](https://pub.dev/packages/is_valid/score)
@@ -6,6 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in-0e76a8)](https://www.linkedin.com/in/abdallahAlsaifi)
 
 [![Alt text](https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png)](https://www.buymeacoffee.com/abdallahalsaifi)
+
+![Visitor Count](https://profile-counter.glitch.me/abdallahAlsaifi/count.svg)
 
 The IsValid Package provides various methods for validating different types of data in Dart. Each method performs specific validation based on the input provided.
 
