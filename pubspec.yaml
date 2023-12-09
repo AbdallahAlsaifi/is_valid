@@ -1,7 +1,7 @@
 name: is_valid
 description: An all-in-one validator 50+ functions cover common cases, from emails and phone numbers to URLs and passwords.
 maintainer: Abdallah Alsaifi
-version: 0.0.6
+version: 0.0.7
 homepage: https://github.com/AbdallahAlsaifi/is_valid
 repository: https://github.com/AbdallahAlsaifi/is_valid
 
