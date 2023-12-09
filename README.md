@@ -78,3 +78,9 @@ bool isValidPhoneNumber = IsValid.validatePhoneNumber('1234567890');
 - `validateBooleanValue(String value)`: Validates a boolean value.
 
 #### Feel free to use these methods according to your validation requirements!
+
+### Contributors
+
+<a href="https://github.com/abdallahAlsaifi/is_valid/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=abdallahAlsaifi/is_valid" />
+</a>
