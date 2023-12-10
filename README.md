@@ -1,14 +1,16 @@
-# IsValid
 
-[![Pub Version](https://img.shields.io/pub/v/badges?color=blueviolet)](https://pub.dev/packages/is_valid)
-[![popularity](https://img.shields.io/pub/popularity/badges?logo=dart)](https://pub.dev/packages/is_valid/score)
-[![likes](https://img.shields.io/pub/likes/badges?logo=dart)](https://pub.dev/packages/is_valid/score)
+# IsValid
+![GitHub License](https://img.shields.io/github/license/abdallahAlsaifi/is_valid)
+![Pub Version](https://img.shields.io/pub/v/is_valid)
+![Pub Popularity](https://img.shields.io/pub/popularity/is_valid)
+![Pub Likes](https://img.shields.io/pub/likes/is_valid)
+![Pub Points](https://img.shields.io/pub/points/is_valid)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@AbdallahAlsaifi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in-0e76a8)](https://www.linkedin.com/in/abdallahAlsaifi)
 
 [![Alt text](https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png)](https://www.buymeacoffee.com/abdallahalsaifi)
 
-![Visitor Count](https://profile-counter.glitch.me/abdallahAlsaifi/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/abdallahAlsaifi_IsValid/count.svg)
 
 The IsValid Package provides various methods for validating different types of data in Dart. Each method performs specific validation based on the input provided.
 
